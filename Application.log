@@ -1,0 +1,13 @@
+2019-08-31 16:47:21,290  INFO [main] StudentTest:16 -Entering into the main method..
+2019-08-31 16:47:27,951  INFO [main] StudentTest:18 -Hello,welcome to the main method.
+2019-08-31 16:47:28,309  INFO [main] StudentTest:20 -Class name: StudentTest.java
+2019-08-31 16:47:28,310  INFO [main] StudentTest:21 -Method name: Main method
+2019-08-31 16:47:28,310  INFO [main] StudentTest:22 -Changing the password:
+2019-08-31 16:47:28,310  INFO [main] StudentTest:23 -Password:123464
+2019-08-31 16:47:28,312  INFO [main] StudentTest:24 -IP Address:198.98.67.17
+2019-08-31 16:47:28,312 DEBUG [main] StudentTest:27 -Log4j appender configuration is successful.
+2019-08-31 16:47:28,312 DEBUG [main] StudentTest:28 -Addition of two integer no. is done
+2019-08-31 16:47:28,313  WARN [main] StudentTest:31 -@Warning Static member should be called through class name instead of creating object of class
+2019-08-31 16:47:28,313 FATAL [main] StudentTest:34 -Exception should be handled otherwise program will not run sucessfully
+2019-08-31 16:47:28,313 ERROR [main] StudentTest:37 -Unriched code/dead code due to exception
+2019-08-31 16:47:28,313  INFO [main] StudentTest:40 -Existing from main method.
